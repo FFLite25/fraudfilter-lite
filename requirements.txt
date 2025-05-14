@@ -1,0 +1,1 @@
+streamlit\npandas\njoblib\nscikit-learn\nimbalanced-learn\nfaker
